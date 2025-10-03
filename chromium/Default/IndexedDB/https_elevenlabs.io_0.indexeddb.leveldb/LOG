@@ -1,0 +1,18 @@
+2025/10/02-17:25:34.625 6b6 Creating DB /home/limxuan/.config/chromium/Default/IndexedDB/https_elevenlabs.io_0.indexeddb.leveldb since it was missing.
+2025/10/02-17:25:34.628 6b6 Reusing MANIFEST /home/limxuan/.config/chromium/Default/IndexedDB/https_elevenlabs.io_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/02-17:25:34.649 6b6 Level-0 table #5: started
+2025/10/02-17:25:34.652 6b6 Level-0 table #5: 1929 bytes OK
+2025/10/02-17:25:34.655 6b6 Delete type=0 #3
+2025/10/02-17:25:34.655 6b6 Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/02-17:26:11.564 6b7 Level-0 table #7: started
+2025/10/02-17:26:11.568 6b7 Level-0 table #7: 2791 bytes OK
+2025/10/02-17:26:11.572 6b7 Delete type=0 #4
+2025/10/02-17:26:11.573 6b7 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/10/02-17:26:11.574 6b7 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x04\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 204 : 1
+2025/10/02-17:26:11.574 6b7 Compacting 1@1 + 1@2 files
+2025/10/02-17:26:11.577 6b7 Generated table #8@1: 56 keys, 1288 bytes
+2025/10/02-17:26:11.577 6b7 Compacted 1@1 + 1@2 files => 1288 bytes
+2025/10/02-17:26:11.580 6b7 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/02-17:26:11.581 6b7 Delete type=2 #5
+2025/10/02-17:26:11.581 6b7 Delete type=2 #7
+2025/10/02-17:26:11.582 6b7 Manual compaction at level-1 from '\x00\x04\x00\x00\xc8 \x00l\x00o\x00c\x00a\x00l\x00-\x00f\x00o\x00r\x00a\x00g\x00e\x00-\x00d\x00e\x00t\x00e\x00c\x00t\x00-\x00b\x00l\x00o\x00b\x00-\x00s\x00u\x00p\x00p\x00o\x00r\x00t' @ 204 : 1 .. (end); will stop at (end)

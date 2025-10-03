@@ -1,0 +1,44 @@
+2025/10/03-11:26:21.417 6d6 Reusing MANIFEST /home/limxuan/.config/chromium/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/03-11:26:21.417 6d6 Recovering log #7
+2025/10/03-11:26:21.417 6d6 Reusing old log /home/limxuan/.config/chromium/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000007.log 
+2025/10/03-11:26:21.425 6d1 Level-0 table #11: started
+2025/10/03-11:26:21.426 6d1 Level-0 table #11: 1910 bytes OK
+2025/10/03-11:26:21.427 6d1 Delete type=0 #7
+2025/10/03-11:26:21.428 6d1 Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 114 : 1
+2025/10/03-11:26:21.428 6d1 Compacting 1@0 + 1@1 files
+2025/10/03-11:26:21.429 6d1 Generated table #12@0: 51 keys, 1405 bytes
+2025/10/03-11:26:21.429 6d1 Compacted 1@0 + 1@1 files => 1405 bytes
+2025/10/03-11:26:21.431 6d1 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/03-11:26:21.431 6d1 Delete type=2 #11
+2025/10/03-11:26:21.431 6d6 Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 114 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/03-11:26:22.840 6e3 Level-0 table #14: started
+2025/10/03-11:26:22.842 6e3 Level-0 table #14: 537 bytes OK
+2025/10/03-11:26:22.844 6e3 Delete type=2 #8
+2025/10/03-11:26:22.844 6e3 Delete type=0 #10
+2025/10/03-11:26:22.844 6e3 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 132 : 1
+2025/10/03-11:26:22.845 6e3 Compacting 1@0 + 1@1 files
+2025/10/03-11:26:22.846 6e3 Generated table #15@0: 55 keys, 1505 bytes
+2025/10/03-11:26:22.846 6e3 Compacted 1@0 + 1@1 files => 1505 bytes
+2025/10/03-11:26:22.848 6e3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/03-11:26:22.849 6e3 Delete type=2 #14
+2025/10/03-11:26:22.849 6d6 Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 132 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/03-11:26:24.842 6d3 Level-0 table #17: started
+2025/10/03-11:26:24.843 6d3 Level-0 table #17: 230 bytes OK
+2025/10/03-11:26:24.844 6d3 Delete type=2 #12
+2025/10/03-11:26:24.844 6d3 Delete type=0 #13
+2025/10/03-11:26:24.844 6d3 Manual compaction at level-0 from (begin) .. (end); will stop at '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 145 : 0
+2025/10/03-11:26:24.844 6d3 Compacting 1@0 + 1@1 files
+2025/10/03-11:26:24.845 6d3 Generated table #18@0: 56 keys, 1448 bytes
+2025/10/03-11:26:24.845 6d3 Compacted 1@0 + 1@1 files => 1448 bytes
+2025/10/03-11:26:24.847 6d3 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/03-11:26:24.847 6d3 Delete type=2 #15
+2025/10/03-11:26:24.847 6d3 Delete type=2 #17
+2025/10/03-11:26:24.848 6d3 Manual compaction at level-0 from '\x00\x00\x00\x002\x02\x03\x01\x00\x00\x00\x00\x00\x00\x00\x00' @ 145 : 0 .. (end); will stop at (end)
+2025/10/03-11:26:24.848 6d3 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x03\x01\x1f\x03\x00\x80\x8b\xa0\x80\x9ayB\x00\x01 \x00@\x00f\x00l\x00u\x00i\x00d\x00x\x00/\x00l\x00o\x00o\x00p\x00-\x00p\x00a\x00g\x00e\x00-\x00c\x00o\x00n\x00t\x00a\x00i\x00n\x00e\x00r\x00_\x00P\x00r\x00o\x00d' @ 102 : 1
+2025/10/03-11:26:24.848 6d3 Compacting 1@1 + 1@2 files
+2025/10/03-11:26:24.849 6d3 Generated table #19@1: 26 keys, 1120 bytes
+2025/10/03-11:26:24.849 6d3 Compacted 1@1 + 1@2 files => 1120 bytes
+2025/10/03-11:26:24.850 6d3 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/03-11:26:24.851 6d3 Delete type=2 #5
+2025/10/03-11:26:24.851 6d3 Delete type=2 #18
+2025/10/03-11:26:24.851 6d3 Manual compaction at level-1 from '\x00\x03\x01\x1f\x03\x00\x80\x8b\xa0\x80\x9ayB\x00\x01 \x00@\x00f\x00l\x00u\x00i\x00d\x00x\x00/\x00l\x00o\x00o\x00p\x00-\x00p\x00a\x00g\x00e\x00-\x00c\x00o\x00n\x00t\x00a\x00i\x00n\x00e\x00r\x00_\x00P\x00r\x00o\x00d' @ 102 : 1 .. (end); will stop at (end)

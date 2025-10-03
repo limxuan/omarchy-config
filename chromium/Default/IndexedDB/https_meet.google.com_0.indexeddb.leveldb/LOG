@@ -1,0 +1,15 @@
+2025/10/03-16:01:19.281 f57 Reusing MANIFEST /home/limxuan/.config/chromium/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/03-16:01:19.282 f57 Recovering log #4
+2025/10/03-16:01:19.285 f57 Reusing old log /home/limxuan/.config/chromium/Default/IndexedDB/https_meet.google.com_0.indexeddb.leveldb/000004.log 
+2025/10/03-16:18:28.191 f59 Level-0 table #8: started
+2025/10/03-16:18:28.195 f59 Level-0 table #8: 17037 bytes OK
+2025/10/03-16:18:28.198 f59 Delete type=0 #4
+2025/10/03-16:18:28.198 f59 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/10/03-16:18:28.199 f59 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 607 : 1
+2025/10/03-16:18:28.199 f59 Compacting 1@1 + 1@2 files
+2025/10/03-16:18:28.202 f59 Generated table #9@1: 36 keys, 2992 bytes
+2025/10/03-16:18:28.203 f59 Compacted 1@1 + 1@2 files => 2992 bytes
+2025/10/03-16:18:28.205 f59 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/03-16:18:28.206 f59 Delete type=2 #5
+2025/10/03-16:18:28.206 f59 Delete type=2 #8
+2025/10/03-16:18:28.207 f59 Manual compaction at level-1 from '\x00\x02\x01\x02\x01\x13\x00c\x00l\x00i\x00e\x00n\x00t\x00R\x00e\x00g\x00i\x00s\x00t\x00r\x00a\x00t\x00i\x00o\x00n\x00s' @ 607 : 1 .. (end); will stop at (end)

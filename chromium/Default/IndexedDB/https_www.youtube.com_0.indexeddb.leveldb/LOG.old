@@ -1,0 +1,14 @@
+2025/10/03-16:25:55.030 f57 Reusing MANIFEST /home/limxuan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/03-16:25:55.031 f57 Recovering log #34
+2025/10/03-16:25:55.034 f57 Reusing old log /home/limxuan/.config/chromium/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000034.log 
+2025/10/03-16:25:55.034 f57 Delete type=2 #32
+2025/10/03-16:25:55.034 f57 Delete type=2 #35
+2025/10/03-16:28:33.218 f59 Level-0 table #40: started
+2025/10/03-16:28:33.246 f59 Level-0 table #40: 2007293 bytes OK
+2025/10/03-16:28:33.251 f59 Delete type=0 #34
+2025/10/03-16:28:47.612 f59 Compacting 1@1 + 1@2 files
+2025/10/03-16:28:47.627 f59 Generated table #41@1: 591 keys, 203273 bytes
+2025/10/03-16:28:47.627 f59 Compacted 1@1 + 1@2 files => 203273 bytes
+2025/10/03-16:28:47.628 f59 compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/03-16:28:47.629 f59 Delete type=2 #37
+2025/10/03-16:28:47.629 f59 Delete type=2 #40

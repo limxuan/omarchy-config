@@ -1,0 +1,13 @@
+2025/10/04-02:43:36.333 717 Reusing MANIFEST /home/limxuan/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/04-02:43:36.333 717 Recovering log #6
+2025/10/04-02:43:36.333 717 Reusing old log /home/limxuan/.config/chromium/Default/IndexedDB/https_monkeytype.com_0.indexeddb.leveldb/000006.log 
+2025/10/04-02:43:36.523 726 Level-0 table #10: started
+2025/10/04-02:43:36.524 726 Level-0 table #10: 3168 bytes OK
+2025/10/04-02:43:36.526 726 Delete type=0 #6
+2025/10/04-02:43:36.527 715 Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at '\x00\x07\x00\x00\x05' @ 267 : 1
+2025/10/04-02:43:36.527 715 Compacting 1@0 + 1@1 files
+2025/10/04-02:43:36.528 715 Generated table #11@0: 91 keys, 2229 bytes
+2025/10/04-02:43:36.528 715 Compacted 1@0 + 1@1 files => 2229 bytes
+2025/10/04-02:43:36.530 715 compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/10/04-02:43:36.531 715 Delete type=2 #10
+2025/10/04-02:43:36.531 715 Manual compaction at level-0 from '\x00\x07\x00\x00\x05' @ 267 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)

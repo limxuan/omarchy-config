@@ -1,0 +1,18 @@
+2025/10/01-16:40:37.196 66c Creating DB /home/limxuan/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb since it was missing.
+2025/10/01-16:40:37.200 66c Reusing MANIFEST /home/limxuan/.config/chromium/Default/IndexedDB/https_www.facebook.com_0.indexeddb.leveldb/MANIFEST-000001
+2025/10/01-16:40:38.318 66f Level-0 table #5: started
+2025/10/01-16:40:38.320 66f Level-0 table #5: 15135 bytes OK
+2025/10/01-16:40:38.321 66f Delete type=0 #3
+2025/10/01-16:40:38.322 66c Manual compaction at level-0 from '\x00\x07\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x08\x00\x00\x00' @ 0 : 0; will stop at (end)
+2025/10/01-16:40:47.900 66d Level-0 table #7: started
+2025/10/01-16:40:47.905 66d Level-0 table #7: 175949 bytes OK
+2025/10/01-16:40:47.907 66d Delete type=0 #4
+2025/10/01-16:40:47.907 66d Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2025/10/01-16:40:47.908 66d Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x0e\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 5454 : 1
+2025/10/01-16:40:47.908 66d Compacting 1@1 + 1@2 files
+2025/10/01-16:40:47.912 66d Generated table #8@1: 2292 keys, 94238 bytes
+2025/10/01-16:40:47.912 66d Compacted 1@1 + 1@2 files => 94238 bytes
+2025/10/01-16:40:47.914 66d compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/10/01-16:40:47.914 66d Delete type=2 #5
+2025/10/01-16:40:47.914 66d Delete type=2 #7
+2025/10/01-16:40:47.914 66d Manual compaction at level-1 from '\x00\x0e\x01\x02\x01\x0a\x00s\x00w\x00_\x00v\x00e\x00r\x00s\x00i\x00o\x00n' @ 5454 : 1 .. (end); will stop at (end)

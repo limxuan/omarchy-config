@@ -1,0 +1,6 @@
+2025/10/01-01:14:06.181 777 Creating DB /home/limxuan/.config/chromium/Default/WebStorage/12/IndexedDB/indexeddb.leveldb since it was missing.
+2025/10/01-01:14:06.186 777 Reusing MANIFEST /home/limxuan/.config/chromium/Default/WebStorage/12/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2025/10/01-01:14:38.054 778 Level-0 table #5: started
+2025/10/01-01:14:38.056 778 Level-0 table #5: 480 bytes OK
+2025/10/01-01:14:38.059 778 Delete type=0 #3
+2025/10/01-01:14:38.059 778 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

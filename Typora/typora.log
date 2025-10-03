@@ -1,0 +1,63 @@
+INFO 10/3/2025, 3:54:52 PM  71  launch with argv [/usr/share/typora/Typora, --enable-wayland-ime, /home/limxuan/Downloads/db_assistant_system.md]
+INFO 10/3/2025, 3:54:53 PM  293  ------------------start------------------
+DEBUG 10/3/2025, 3:54:53 PM  302  before setting 
+DEBUG 10/3/2025, 3:54:53 PM  340  prepDatabase /home/limxuan/.config/Typora/profile.data
+DEBUG 10/3/2025, 3:54:53 PM  348  prepDatabase /home/limxuan/.config/Typora/history.data
+INFO 10/3/2025, 3:54:53 PM  354  OS is linux 6.16.8-arch3-1
+INFO 10/3/2025, 3:54:53 PM  354  launchFromDiffVersion, pre version is undefined
+INFO 10/3/2025, 3:54:53 PM  354  start LM in devVersion=false
+INFO 10/3/2025, 3:54:53 PM  370  overwriteThemeFolder
+DEBUG 10/3/2025, 3:54:53 PM  373  after setting 
+INFO 10/3/2025, 3:54:53 PM  373  typora version: 1.12.1
+DEBUG 10/3/2025, 3:54:53 PM  374  app.openFile
+INFO 10/3/2025, 3:54:53 PM  374  addRecentDocument
+DEBUG 10/3/2025, 3:54:53 PM  522  added recovery 1 /home/limxuan/Downloads/db_assistant_system.md  (0)
+INFO 10/3/2025, 3:54:53 PM  527  [watch L]
+DEBUG 10/3/2025, 3:54:53 PM  527  prepDatabase /home/limxuan/.config/Typora/gLziv5O1kc
+INFO 10/3/2025, 3:54:53 PM  532  no info
+INFO 10/3/2025, 3:54:53 PM  532  ls put SLicense
+DEBUG 10/3/2025, 3:54:53 PM  532  onUnfillLicense
+DEBUG 10/3/2025, 3:54:53 PM  533  trailRemains is 15
+INFO 10/3/2025, 3:54:53 PM  533  [L] installDate is 10/3/2025, trail remains: 15 days
+DEBUG 10/3/2025, 3:54:53 PM  533  onUnfillLicense
+INFO 10/3/2025, 3:54:53 PM  533  [watch L] hasL: false
+INFO 10/3/2025, 3:54:53 PM  591  [focus] 1
+INFO 10/3/2025, 3:54:53 PM  594  [blur] 1
+INFO 10/3/2025, 3:54:53 PM  594  [win] blur
+INFO 10/3/2025, 3:54:53 PM  594  [focus] 1
+INFO 10/3/2025, 3:54:53 PM  597  [blur] 1
+INFO 10/3/2025, 3:54:53 PM  597  [win] blur
+INFO 10/3/2025, 3:54:53 PM  598  [focus] 1
+DEBUG 10/3/2025, 3:54:53 PM  706  putAccelerator File -> &File
+DEBUG 10/3/2025, 3:54:53 PM  707  putAccelerator Edit -> &Edit
+DEBUG 10/3/2025, 3:54:53 PM  707  putAccelerator Paragraph -> &Paragraph
+DEBUG 10/3/2025, 3:54:53 PM  707  putAccelerator Format -> F&ormat
+DEBUG 10/3/2025, 3:54:53 PM  708  putAccelerator View -> &View
+DEBUG 10/3/2025, 3:54:53 PM  708  putAccelerator Themes -> &Themes
+DEBUG 10/3/2025, 3:54:53 PM  708  putAccelerator Help -> &Help
+INFO 10/3/2025, 3:54:53 PM  741  synced recovery
+user-dict.json not found
+INFO 10/3/2025, 3:54:53 PM  1168  [blur] 1
+INFO 10/3/2025, 3:54:53 PM  1168  [win] blur
+DEBUG 10/3/2025, 3:54:54 PM  1765  onUnfillLicense
+ERROR 10/3/2025, 3:54:54 PM  1779  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/3/2025, 3:54:54 PM  1782  handle document.loadData
+DEBUG 10/3/2025, 3:54:54 PM  1783  document.loadData 1
+ERROR 10/3/2025, 3:54:54 PM  1783  Error: net::ERR_FILE_NOT_FOUND
+    at SimpleURLLoaderWrapper.<anonymous> (node:electron/js2c/browser_init:2:123516)
+    at SimpleURLLoaderWrapper.emit (node:events:518:28)
+INFO 10/3/2025, 3:54:54 PM  1869  [RenderProcess 1][Log] [UndoManager] reset commandStack
+INFO 10/3/2025, 3:54:54 PM  1869  [RenderProcess 1][Log] reset NodeMap
+INFO 10/3/2025, 3:54:54 PM  1871  [RenderProcess 1][Log] readContentFrom /home/limxuan/Downloads/db_assistant_system.md
+DEBUG 10/3/2025, 3:54:54 PM  2068  added recovery 1 /home/limxuan/Downloads/db_assistant_system.md  (0)
+INFO 10/3/2025, 3:54:54 PM  2070  synced recovery
+INFO 10/3/2025, 3:54:55 PM  2348  [focus] 1
+INFO 10/3/2025, 3:54:55 PM  2374  [RenderProcess 1][Log] onBecomeActive
+INFO 10/3/2025, 3:54:55 PM  2374  [RenderProcess 1][Log] File.activeWindow = true
+INFO 10/3/2025, 3:54:56 PM  3550  synced recovery
+INFO 10/3/2025, 3:54:56 PM  3550  ----------------before-quit-----------------
+INFO 10/3/2025, 3:54:56 PM  3550  ------------------will-quit------------------
+INFO 10/3/2025, 3:54:56 PM  3555  -----------------quit------------------
+INFO 10/3/2025, 3:54:56 PM  3555  closeLogging
